@@ -1,0 +1,1 @@
+Testing whether the previous DQL assignment workflow can be maintained while keeping the primary script in GitHub, with each processed dataset archived so it can be referenced or re-run in the future if needed. 
