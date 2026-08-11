@@ -348,7 +348,7 @@ df5.results <- df4.results %>%
   
   ###example:###
   #'[32807-ORDEQ - 21530904 - Temperature, water]: 1:15659 
-  odeqcdr::dql_update(rows = c(1:29, 15555:15659), "C", "Anamolous data, logger likely out of water") %>%
+  #odeqcdr::dql_update(rows = c(1:29, 15555:15659), "C", "Anamolous data, logger likely out of water") %>%
   
   
   
