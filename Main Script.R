@@ -7,9 +7,11 @@ library(tibble)
 library(tidyverse)
 library(remotes)
 
-remotes::install_github(repo = "OR-Dept-Environmental-Quality/odeqmloctools", 
-                        host = "https://api.github.com", 
-                        dependencies = TRUE, force = TRUE, upgrade = "never")
+#remotes::install_github(repo = "OR-Dept-Environmental-Quality/odeqmloctools", 
+                        #host = "https://api.github.com", 
+                        #dependencies = TRUE, force = TRUE, upgrade = "never")
+########LB 8/11/2026 commenting out loctools, not needed for volmon script ***Confirm after output**** ##################
+
 
 #Analyst Name
 analyst <- "Liz B"
