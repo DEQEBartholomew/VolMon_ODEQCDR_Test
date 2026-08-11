@@ -14,7 +14,6 @@ library(remotes)
 
 
 #Analyst Name
-analyst <- "Liz B"
 
 analyst <- "LizB"
 
